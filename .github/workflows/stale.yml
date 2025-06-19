@@ -5,6 +5,7 @@
 # https://github.com/actions/stale
 name: Mark stale issues and pull requests
 
+on: workflow_dispatch
 on:
   schedule:
   - cron: '44 12 * * *'
