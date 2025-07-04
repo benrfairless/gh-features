@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Add an authority
+    url: https://www.righttoknow.org.au/change_request/new
+    about: Please go here to request a new authority for the site.
+  - name: Urgent or sensitive issues
+    url: https://www.righttoknow.org.au/contact
+    about: Please contact us directly for any urgent or sensitive issue affect affecting Right to Know.
